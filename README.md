@@ -9,6 +9,14 @@
 <img src="https://s2.loli.net/2022/07/31/27D3gQcEHCs8Aty.jpg" width="720" height="720"> 
 </div>
 
+<!-- Gif -->
+<div align="center">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+</div>
+
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yu0ri&hide_title=true&hide_border=true&show_icons=true&theme=blueberry" />
