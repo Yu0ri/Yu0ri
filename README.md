@@ -6,7 +6,8 @@
   <a href="https://www.cnblogs.com/zroCrow/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/65580609"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Yu0ri" alt="访客统计" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Yu0ri" alt="访客统计" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Yu0ri?style=social"></div>
 
 <!--图片与个人介绍 -->
 <div align="center">
