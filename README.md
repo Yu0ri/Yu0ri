@@ -1,6 +1,6 @@
 ### Welcome to Yu0ri's HomePage 👋
 
-<a href="https://sm.ms/image/27D3gQcEHCs8Aty" target="_blank"><img src="https://s2.loli.net/2022/07/31/27D3gQcEHCs8Aty.jpg" ></a>
+<a href="https://sm.ms/image/27D3gQcEHCs8Aty" target="_blank"><img src="https://s2.loli.net/2022/07/31/27D3gQcEHCs8Aty.jpg" align="center"></a>
 
 <!--  GitHub 统计卡片-->
 <div align="center">
