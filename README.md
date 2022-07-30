@@ -1,7 +1,11 @@
-#  🙋 Hello
+## 🦢 Yu0ri，名字灵感来源于《MEGALO BOX》
 
-<p>✍️&nbsp;&nbsp;02年出生；性别男，爱好女</p>
-<p>&emsp;&emsp;常常一个人走在安全的路上，遇到多多少少的前辈与伙伴</p>
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="400"/>
+
+* 👴 02年出生 性别男 爱好女
+* 📖 从事信息安全5年
+* ⚡️ 键盘侠 暴躁喷子 活在当下 做自己爱做的事
+* 💻 Web渗透，内网渗透，Python安全开发，Golang安全开发，Java安全开发，易语言安全开发，工控安全，wifi安全，蓝牙安全，101协议、104协议，spicy语言，Wazuh，Zeek，linux，Windows等...
 
 
 <!-- 标签-->
