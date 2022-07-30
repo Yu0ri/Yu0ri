@@ -27,11 +27,6 @@
 </div>
 
 ## 🐾 起步也许很晚，也许不晚，但只要愿意，总会不断前进
-💪 正在学习: 
-
-&emsp;&emsp;
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 
 <!-- GitHub数据统计 -->
 <div align="center">
