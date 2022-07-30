@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="400"/>
 
-* 👴 02年出生，
+* 👴 02年出生，热爱FPS游戏
 * 📖 从2020年开始从事网络安全行业，林林总总一路上遇到了各种各样的人
 * 🌏 性格内向 努力面向社会 活在当下
 * 💻 Web渗透，内网渗透，Python安全开发，linux，Windows等...
