@@ -12,7 +12,7 @@
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yu0ri&hide_title=true&hide_border=true&show_icons=true&theme=blueberry" />
-  <img width="100px" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu0ri&hide_title=true&hide_border=true&layout=compact&theme=cobalt2" />
+  <img width="137px" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu0ri&hide_title=true&hide_border=true&layout=compact&theme=cobalt2" />
 </div>
 <br>
 
