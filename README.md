@@ -1,7 +1,7 @@
 ### Welcome to Yu0ri's HomePage 👋
 
 <div align="center">
-<img src="https://s2.loli.net/2022/07/31/27D3gQcEHCs8Aty.jpg" width="180" height="105"> 
+<img src="https://s2.loli.net/2022/07/31/27D3gQcEHCs8Aty.jpg" width="720" height="720"> 
 </div>
 
 <!--  GitHub 统计卡片-->
