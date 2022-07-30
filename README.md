@@ -9,15 +9,12 @@
 <img src="https://s2.loli.net/2022/07/31/27D3gQcEHCs8Aty.jpg" width="720" height="720"> 
 </div>
 
-<!--  GitHub 统计卡片-->
+<!-- GitHub数据统计 -->
 <div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yu0ri&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=blueberry" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yu0ri&hide_title=true&hide_border=true&show_icons=true&theme=blueberry" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu0ri&hide_title=true&hide_border=true&layout=compact&theme=cobalt2" />
 </div>
-
-<!--  编程语言使用-->
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu0ri&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+<br>
 
 <!--  奖杯-->
 <div align="center">
