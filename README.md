@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="400"/>
 
-* 👴 02年出生 性别男 爱好女
-* 📖 从事信息安全5年
-* ⚡️ 键盘侠 暴躁喷子 活在当下 做自己爱做的事
-* 💻 Web渗透，内网渗透，Python安全开发，Golang安全开发，Java安全开发，易语言安全开发，工控安全，wifi安全，蓝牙安全，101协议、104协议，spicy语言，Wazuh，Zeek，linux，Windows等...
+* 👴 02年出生，
+* 📖 从2020年开始从事网络安全行业，林林总总一路上遇到了各种各样的人
+* ⚡️ 性格内向 努力面向社会 活在当下
+* 💻 Web渗透，内网渗透，Python安全开发，linux，Windows等...
 
 
 <!-- 标签-->
