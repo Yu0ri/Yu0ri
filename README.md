@@ -1,5 +1,7 @@
 ### Welcome to Yu0ri's HomePage 👋
 
+<!-- 标签-->
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Yu0ri?style=social">
 
 <!--图片与个人介绍 -->
 <div align="center">
