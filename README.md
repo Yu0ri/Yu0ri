@@ -40,6 +40,14 @@
   <img  src="https://github-profile-trophy.vercel.app/?username=Yu0ri&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+
+## 💞 第一份真正意义上自己的开源，以作勉励
+<!-- 比较好的开源项目卡片 -->
+<div align="center">
+<a href="https://github.com/Yu0ri/CubitTest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yu0ri&repo=CubitTest&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
+
 <!--  活动轨迹-->
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Yu0ri&theme=xcode" />
