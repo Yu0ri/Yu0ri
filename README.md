@@ -4,7 +4,7 @@
 
 * 👴 02年出生，
 * 📖 从2020年开始从事网络安全行业，林林总总一路上遇到了各种各样的人
-* ⚡️ 性格内向 努力面向社会 活在当下
+* 🌏 性格内向 努力面向社会 活在当下
 * 💻 Web渗透，内网渗透，Python安全开发，linux，Windows等...
 
 
@@ -25,6 +25,8 @@
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
+
+## 🐾 起步也许很晚，也许不晚，但只要愿意，总会不断前进
 
 <!-- GitHub数据统计 -->
 <div align="center">
