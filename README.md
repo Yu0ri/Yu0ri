@@ -27,6 +27,11 @@
 </div>
 
 ## 🐾 起步也许很晚，也许不晚，但只要愿意，总会不断前进
+💪 正在学习: 
+
+&emsp;&emsp;
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 
 <!-- GitHub数据统计 -->
 <div align="center">
@@ -48,6 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yu0ri&repo=CubitTest&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
+## 😴 一个爱偷懒的猪罢了
 <!--  活动轨迹-->
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Yu0ri&theme=xcode" />
